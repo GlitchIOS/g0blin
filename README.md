@@ -7,7 +7,7 @@ Spawns an SSH server listening on port 2222. Remember to change your passwords!
 Please reinstall the bootstrap when upgrading.
 
 
-## what is still broken?
+## What is still broken?
 
 Third-party applications that need root priveledges require an extra entitlement to function correctly.
 
@@ -21,7 +21,7 @@ I have already added the entitlement to the copy of Cydia included in g0blin.
 For other apps (eg. Filza, MTerminal) to work correctly you will have to entitle them yourself.
 
 
-## credits
+## Credits
 
 Siguza - v0rtex kernel exploit
 
@@ -31,4 +31,7 @@ Xerub - patchfinder (extra_recipe)
 
 Saurik - Cydia
 
-thanks: PsychoTea, ARX8x, Abraham Masri, ninjaprawn, coolstar, ... ?
+Thanks: PsychoTea, ARX8x, Abraham Masri, ninjaprawn, coolstar, ... ?
+
+
+US USERS: Thank you.. 
